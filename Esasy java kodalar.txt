@@ -1,0 +1,1 @@
+ javax.swing.JFrame // bu frame javda penjire sekili app doratmage komek edyan klassyn ady;
